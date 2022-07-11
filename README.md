@@ -24,11 +24,11 @@ I wanted to learn a low level language for a while and decided this project woul
 - To render new image run `go run main.go`
 
 ## Features 
-###Render and reshape Spheres and Planes**
+### Render and reshape Spheres and Planes
+![Reshape](https://user-images.githubusercontent.com/46093495/178223761-401c604b-d5b0-4fb0-8033-a75c62422cf6.png)
 
 ### Reflections and Shadows
 ![Reflection-Demo](https://user-images.githubusercontent.com/46093495/178142176-c347f2d8-4ed3-4cd1-a315-b54b3df38408.png)
+
 ### Refraction
 ![Refraction](https://user-images.githubusercontent.com/46093495/178142312-90333f4b-b977-4724-b0db-4914fe44c561.png)
-
-**Scene building**
